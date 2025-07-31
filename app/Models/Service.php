@@ -3,7 +3,7 @@
 namespace App\Models;
 
 use Illuminate\Database\Eloquent\Model;
-use App\Models\Feature;  // <-- Add this line
+use App\Models\Feature;  
 
 class Service extends Model
 {
